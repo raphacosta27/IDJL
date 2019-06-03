@@ -40,7 +40,7 @@ end function
         x = x + 1
         print x
     wend
-    end sub
+end sub
 ```
 Output
 ```Python
