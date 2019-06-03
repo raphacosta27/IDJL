@@ -1,4 +1,1 @@
-function_definition coloquei o "ˆ" 
-declaration coloquei o "@"
-selection_statement coloquei o "#"
-iteration_statement coloquei o "$"
+Gerar erros do If por falta de End if
